@@ -10,4 +10,4 @@ Database: Google BigQuery, PostgreSQL, MySQL
 Data Visualization: Tableau
 
 ## Connect with me 👈🏻
-[LinkedIn](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/elzaj/))
+[LinkedIn](https://www.linkedin.com/in/elzaj/)
