@@ -1,4 +1,4 @@
-![Image Alt Text](./bern.png)
+![Bern Dashboard](./bern.png)
 
 ## Introducing myself 🙋🏻‍♀️
 Hello, my name is Elza. I'm an analytics engineer with expertise in data analysis, Machine learning, Reporting, Query Optimization and Database Design.
