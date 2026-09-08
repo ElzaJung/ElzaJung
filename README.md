@@ -2,7 +2,7 @@
 Hello, my name is Elza. I'm an analytics engineer with expertise in data analysis, Machine learning, Reporting, Query Optimization and Database Design.
 
 ## Portfolio 💼
-Check out my full portfolio [here]
+Check out my full [portfolio](https://github.com/ElzaJung/Elza-s-Portfolio)
 
 ## Tools ⚒️
 Language: SQL, Python
