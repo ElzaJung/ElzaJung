@@ -1,16 +1,13 @@
-## Hi there 👋
+## Introducing myself
+Hello, my name is Elza. I'm an analytics engineer with expertise in data analysis, Machine learning, Reporting, Query Optimization and Database Design.
 
-<!--
-**ElzaJung/ElzaJung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Portfolio
+Check out my full portfolio [here]
 
-Here are some ideas to get you started:
+## Tools
+Language: SQL, Python
+Database: Google BigQuery, PostgreSQL, MySQL
+Data Visualization: Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername](https://www.linkedin.com/in/elzaj/))
