@@ -5,9 +5,9 @@ Hello, my name is Elza. I'm an analytics engineer with expertise in Data Analysi
 Check out my full [portfolio](https://github.com/ElzaJung/Elza-s-Portfolio)
 
 ## Tools ⚒️
-Language: SQL, Python, JavaScript
-Database: Google BigQuery, PostgreSQL, MySQL
-Data Visualization: Tableau, Power BI
+Language: SQL, Python, JavaScript \
+Database: Google BigQuery, PostgreSQL, MySQL \
+Data Visualization: Tableau, Power BI \
 Skills: Linux, Docker, AWS
 
 ## Connect with me 👈🏻
