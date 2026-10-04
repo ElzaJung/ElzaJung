@@ -4,7 +4,7 @@
 Hello, my name is Elza. I'm a data scientist with expertise in Big data, Data Analysis, Machine Learning, Reporting, and Cloud Architecture.
 
 ## Portfolio 💼
-Data Engineering: View [Portfolio](https://github.com/ElzaJung/Elza-s-Portfolio)
+Data Analytics & Engineering: View [Portfolio](https://github.com/ElzaJung/Elza-s-Portfolio)
 
 Full-Stack Software Engineering: View [Portfolio](https://github.com/ElzaJung/SE-portfolio)
 
